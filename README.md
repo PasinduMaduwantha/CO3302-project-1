@@ -1,4 +1,4 @@
-# travel Companion
+# Travel Companion
 
 ## Introduction
 
