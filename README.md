@@ -1,5 +1,7 @@
 # Travel Companion
 
+![Travel Companion](H:\5th_sem\co-project\Capture-map.png)
+
 ## Introduction
 
 Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called "Memories" and it is a simple social media app that allows users to post interesting events that happened in their lives.
